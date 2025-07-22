@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AB Sejahtera Enterprise</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #ff6600;
+      padding: 20px;
+      color: white;
+      text-align: center;
+    }
+    .hero {
+      background-image: url('hero-image.jpg'); /* ganti dengan gambar sebenar */
+      background-size: cover;
+      background-position: center;
+      height: 300px;
+    }
+    section {
+      padding: 40px 20px;
+      background: white;
+      margin: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #ff6600;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>AB Sejahtera Enterprise</h1>
+    <p>Perkhidmatan Profesional untuk Komuniti Anda</p>
+  </header>
+
+  <div class="hero"></div>
+
+  <section>
+    <h2>Profil Syarikat</h2>
+    <p>AB Sejahtera Enterprise adalah sebuah perniagaan yang komited dalam menyediakan pelbagai perkhidmatan seperti pembersihan, landskap, pengubahsuaian, kerja awam, pengecatan, dan pembersihan papan tanda.</p>
+  </section>
+
+  <section>
+    <h2>Perkhidmatan Kami</h2>
+    <ul>
+      <li>Pembersihan dalaman dan luaran (rumah, pejabat, kedai, papan tanda)</li>
+      <li>Perkhidmatan landskap dan reka bentuk taman</li>
+      <li>Pengubahsuaian dan kerja-kerja pengecatan</li>
+      <li>Kerja awam: penyelenggaraan & baik pulih struktur asas</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Kenapa Pilih Kami?</h2>
+    <p>Kami menawarkan solusi menyeluruh untuk menjaga kebersihan, keindahan dan keselesaan ruang anda dengan tenaga kerja mahir dan berpengalaman.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 AB Sejahtera Enterprise | Semua Hak Cipta Terpelihara</p>
+  </footer>
+
+</body>
+</html>
